@@ -1,0 +1,9 @@
+===========================
+BRPKER REPORT
+==========================
+Broker: HELLMANN  | Total charge by broker: 200.00 USD 
+Broker: OCL  | Total charge by broker: 200.00 USD 
+Broker: FLEXPORT  | Total charge by broker: 22750.00 USD 
+Broker: TOBICA  | Total charge by broker: 200.00 USD 
+-------------
+Export By : System automation
