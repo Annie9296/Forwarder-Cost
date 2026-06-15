@@ -125,7 +125,7 @@ public class Baitap9 {
        
 
        // GENERATE INBOUND CODE
-       int runningNo=001;
+       int runningNo=005;
        for (InboundCode ic : inboundTransaction) {
         try {
             String inboundCode= "";
